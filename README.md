@@ -15,7 +15,7 @@ The default values are already entered, if no changes are desired, press the "ok
 
 ## Possible issues
 For the code with the 2 variants, a too big difference between the contagiousness or the number of contacts between the two variants can lead to stability problems. This is due to the fact that one of the variants will relatively quickly, compared to the necessary study period of the second variant, "go" close to 0. After a while this "0" will reach the precision limit of the computer and NaN values appear.
-For instance : "probabilty of covid-19 transmission between an Infected and a Susceptible during a contact at peak infectiousness (Variant 2)" = 0.35 with all others parameters unchanged worh fine. 
+For instance : "probabilty of covid-19 transmission between an Infected and a Susceptible during a contact at peak infectiousness (Variant 2)" = 0.35 with all others parameters unchanged work fine. 
 
 ## Results
 See the report of group 4
